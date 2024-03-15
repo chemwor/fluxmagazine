@@ -7,13 +7,9 @@
   "private": true,
   "scripts": {
     "start": "gulp serve",
-    "build": "gulp build:dist"
-  },
-  "scripts": {
-    "start": "react-scripts start",
+    "build": "gulp build:dist",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "gulp serve",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
