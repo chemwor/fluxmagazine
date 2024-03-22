@@ -1,0 +1,165 @@
+
+Jjavascript:S3504")Unexpected var, use let or const instead.(ŞÔ‘ãÿÿÿÿÿ
+Jjavascript:S3504.")Unexpected var, use let or const instead.(™‡¤Åüÿÿÿÿ
+Ejavascript:S35040")Unexpected var, use let or const instead.(€ÒÓÖ
+Jjavascript:S35049")Unexpected var, use let or const instead.(ûıïÍüÿÿÿÿ
+Jjavascript:S3504?")Unexpected var, use let or const instead.(”İ½¬şÿÿÿÿ
+Xjavascript:S1481?"7Remove the declaration of the unused 'banner' variable.(”İ½¬şÿÿÿÿ
+Ujavascript:S1854?"4Remove this useless assignment to variable "banner".(”İ½¬şÿÿÿÿ
+Jjavascript:S3504d")Unexpected var, use let or const instead.(™‡¤Åüÿÿÿÿ
+}javascript:S1172l"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.( ÅÈ
+}javascript:S1172q"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.( ÅÈ
+vjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÙÖˆÿÿÿÿÿ
+Fjavascript:S3504‚")Unexpected var, use let or const instead.(§éƒ€
+Kjavascript:S3504…")Unexpected var, use let or const instead.(Çëã’úÿÿÿÿ
+Kjavascript:S3504†")Unexpected var, use let or const instead.(òÉø˜ÿÿÿÿÿ
+Kjavascript:S3504‡")Unexpected var, use let or const instead.(ÍŸè‡ıÿÿÿÿ
+Kjavascript:S3504ˆ")Unexpected var, use let or const instead.(Ë­©úÿÿÿÿ
+gjavascript:S905‘"FExpected an assignment or function call and instead saw an expression.(á®ğåıÿÿÿÿ
+Bjavascript:S878—"!Unexpected use of comma operator.(ÕõÜ’úÿÿÿÿ
+Fjavascript:S3504¤")Unexpected var, use let or const instead.(¢Ğ­Û
+Kjavascript:S3504©")Unexpected var, use let or const instead.(ÙÂİñûÿÿÿÿ
+Kjavascript:S3504ª")Unexpected var, use let or const instead.(Úô æÿÿÿÿÿ
+ajavascript:S1515«"?Make sure this function is not called after the loop completes.(¹‡¡Çÿÿÿÿÿ
+Kjavascript:S3504¼")Unexpected var, use let or const instead.(™‡¤Åüÿÿÿÿ
+javascript:S1172ş"]Remove the unused function parameter "svg" or rename it to "_svg" to make intention explicit.(³™Ïÿÿÿÿÿÿ
+Fjavascript:S3504")Unexpected var, use let or const instead.(ùÿØ§
+ijavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(›”âé
+Fjavascript:S3504")Unexpected var, use let or const instead.(›”âé
+Kjavascript:S3504")Unexpected var, use let or const instead.(™Ÿ¢£ÿÿÿÿÿ
+Fjavascript:S3504˜")Unexpected var, use let or const instead.(€ˆŞæ
+Kjavascript:S3504¤")Unexpected var, use let or const instead.(Ûä×úÿÿÿÿ
+ijavascript:S4138¥"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(½éƒ¡
+Fjavascript:S3504¥")Unexpected var, use let or const instead.(½éƒ¡
+Kjavascript:S3504¦")Unexpected var, use let or const instead.(ºØƒõøÿÿÿÿ
+Fjavascript:S3504³")Unexpected var, use let or const instead.(ùÚ°Å
+Fjavascript:S3504¸")Unexpected var, use let or const instead.(İîï–
+vjavascript:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(¯ï›ûÿÿÿÿ
+Kjavascript:S3504Ò")Unexpected var, use let or const instead.(åÉé£ıÿÿÿÿ
+Kjavascript:S3504Ó")Unexpected var, use let or const instead.(ä§™ıùÿÿÿÿ
+Kjavascript:S3504Ô")Unexpected var, use let or const instead.(õıáòÿÿÿÿÿ
+Ejavascript:S3504Ö")Unexpected var, use let or const instead.(‚§’
+Ejavascript:S3504Ø")Unexpected var, use let or const instead.(ü‡Œ\
+Fjavascript:S3504Ú")Unexpected var, use let or const instead.(üìŸ©
+Kjavascript:S3504Ü")Unexpected var, use let or const instead.(¡¾¢íüÿÿÿÿ
+Fjavascript:S3504Ş")Unexpected var, use let or const instead.(ÛÓÈÿ
+Kjavascript:S3504å")Unexpected var, use let or const instead.(‰™¢Ôşÿÿÿÿ
+Fjavascript:S3504ç")Unexpected var, use let or const instead.(ÒÂù
+„javascript:S2392ç"gConsider moving declaration of 'slidesPerViewInit' as it is referenced outside current binding context.(ÒÂù
+Fjavascript:S3504è")Unexpected var, use let or const instead.(ğú‰Æ
+‚javascript:S2392è"eConsider moving declaration of 'breakpointsInit' as it is referenced outside current binding context.(ğú‰Æ
+Fjavascript:S3504ê")Unexpected var, use let or const instead.(ÖŠĞÓ
+Kjavascript:S3504ë")Unexpected var, use let or const instead.(ÏÔ±ºÿÿÿÿÿ
+Kjavascript:S3504ì")Unexpected var, use let or const instead.(Ë¼Ûİùÿÿÿÿ
+Fjavascript:S3504í")Unexpected var, use let or const instead.(Õ›Ì
+Kjavascript:S3504î")Unexpected var, use let or const instead.(˜ùæ´úÿÿÿÿ
+Kjavascript:S3504ï")Unexpected var, use let or const instead.(½Ó«ûÿÿÿÿÿ
+Fjavascript:S3504ğ")Unexpected var, use let or const instead.(¸ãõÉ
+Fjavascript:S3504ñ")Unexpected var, use let or const instead.(ñÎ™º
+Djavascript:S2814ñ"''slidesPerViewInit' is already defined.(ñÎ™º
+Kjavascript:S3504ò")Unexpected var, use let or const instead.(ÎÜáÖøÿÿÿÿ
+Gjavascript:S2814ò"%'breakpointsInit' is already defined.(ÎÜáÖøÿÿÿÿ
+Fjavascript:S3504‡")Unexpected var, use let or const instead.(í»¶±
+Kjavascript:S3504ˆ")Unexpected var, use let or const instead.(ÚÿÙáûÿÿÿÿ
+ajavascript:S1481ˆ"?Remove the declaration of the unused 'sliderAutoPlay' variable.(ÚÿÙáûÿÿÿÿ
+^javascript:S1854ˆ"<Remove this useless assignment to variable "sliderAutoPlay".(ÚÿÙáûÿÿÿÿ
+Kjavascript:S3504‰")Unexpected var, use let or const instead.(úÅ‡˜øÿÿÿÿ
+Kjavascript:S3504Š")Unexpected var, use let or const instead.(Ñ–´ïùÿÿÿÿ
+Fjavascript:S3504‹")Unexpected var, use let or const instead.(ääüÉ
+Fjavascript:S3504Œ")Unexpected var, use let or const instead.(ˆ—‰
+Fjavascript:S3504")Unexpected var, use let or const instead.(÷¡ò¦
+Fjavascript:S3504")Unexpected var, use let or const instead.(Õÿëº
+Fjavascript:S3504")Unexpected var, use let or const instead.(êßÓâ
+Kjavascript:S3504")Unexpected var, use let or const instead.(‡ß…æøÿÿÿÿ
+Kjavascript:S3504‘")Unexpected var, use let or const instead.(ÙÏêâûÿÿÿÿ
+Kjavascript:S3504’")Unexpected var, use let or const instead.(¤å§¨ıÿÿÿÿ
+Kjavascript:S3504“")Unexpected var, use let or const instead.(üç“Îüÿÿÿÿ
+Fjavascript:S3504”")Unexpected var, use let or const instead.(¹ë™°
+Kjavascript:S3504œ")Unexpected var, use let or const instead.(²ÃÇ¡ÿÿÿÿÿ
+‚javascript:S2392œ"`Consider moving declaration of 'thumbsInit' as it is referenced outside current binding context.(²ÃÇ¡ÿÿÿÿÿ
+Kjavascript:S3504")Unexpected var, use let or const instead.(³¼Ü¶øÿÿÿÿ
+Ejavascript:S3504¤")Unexpected var, use let or const instead.(ŒñÆ
+<javascript:S2814¤" 'thumbsInit' is already defined.(ŒñÆ
+Kjavascript:S3504¦")Unexpected var, use let or const instead.(Ã‘şŠıÿÿÿÿ
+Yjavascript:S1481¦"7Remove the declaration of the unused 'slider' variable.(Ã‘şŠıÿÿÿÿ
+Vjavascript:S1854¦"4Remove this useless assignment to variable "slider".(Ã‘şŠıÿÿÿÿ
+\javascript:S1515¨"?Make sure this function is not called after the loop completes.(š»ä
+ajavascript:S1515³"?Make sure this function is not called after the loop completes.(ñè¾¼øÿÿÿÿ
+[javascript:S1481á"9Remove the declaration of the unused 'lightbox' variable.(¸·ÜÛûÿÿÿÿ
+Xjavascript:S1854á"6Remove this useless assignment to variable "lightbox".(¸·ÜÛûÿÿÿÿ
+Fjavascript:S3504Š")Unexpected var, use let or const instead.(­ìğÂ
+Ujavascript:S1481Š"8Remove the declaration of the unused 'players' variable.(­ìğÂ
+Rjavascript:S1854Š"5Remove this useless assignment to variable "players".(­ìğÂ
+Ejavascript:S3504š")Unexpected var, use let or const instead.(ä“Á
+~javascript:S1172«"aRemove the unused function parameter "state" or rename it to "_state" to make intention explicit.(Ïü÷
+Kjavascript:S1117«".'line' is already declared in the upper scope.(Ïü÷
+Fjavascript:S3504¯")Unexpected var, use let or const instead.(ãç†Ä
+ejavascript:S1848°"HEither remove this useless object instantiation of "Waypoint" or use it.(—…ÄÍ
+Kjavascript:S3504¹")Unexpected var, use let or const instead.(›‹… ùÿÿÿÿ
+~javascript:S1172¾"aRemove the unused function parameter "state" or rename it to "_state" to make intention explicit.(¥Œé
+Mjavascript:S1117¾"0'circle' is already declared in the upper scope.(¥Œé
+Fjavascript:S3504Â")Unexpected var, use let or const instead.(ãç†Ä
+ejavascript:S1848Ã"HEither remove this useless object instantiation of "Waypoint" or use it.(—…ÄÍ
+Fjavascript:S3504Ñ")Unexpected var, use let or const instead.(›˜™ö
+Fjavascript:S3504â")Unexpected var, use let or const instead.(±Úİú
+Kjavascript:S3504ä")Unexpected var, use let or const instead.(úÕîÏşÿÿÿÿ
+Kjavascript:S3504å")Unexpected var, use let or const instead.(“ù¬—ıÿÿÿÿ
+Kjavascript:S3504æ")Unexpected var, use let or const instead.(µ—·Ûúÿÿÿÿ
+}javascript:S1172ì"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.(‘ò€T
+Fjavascript:S3504í")Unexpected var, use let or const instead.(Û…™İ
+Kjavascript:S3504î")Unexpected var, use let or const instead.(ËĞÊùÿÿÿÿ
+Kjavascript:S3504ï")Unexpected var, use let or const instead.(ô·Í»ùÿÿÿÿ
+Fjavascript:S3504ñ")Unexpected var, use let or const instead.(÷Ÿì
+Kjavascript:S3504‰")Unexpected var, use let or const instead.(˜ÇÆ×şÿÿÿÿ
+ejavascript:S1848Œ"HEither remove this useless object instantiation of "Waypoint" or use it.(—…ÄÍ
+Kjavascript:S3504Ÿ")Unexpected var, use let or const instead.(ĞÄÅúÿÿÿÿ
+Kjavascript:S3504 ")Unexpected var, use let or const instead.(¤ğ¸ùÿÿÿÿ
+^javascript:S1481 "<Remove the declaration of the unused 'tooltipList' variable.(¤ğ¸ùÿÿÿÿ
+[javascript:S1854 "9Remove this useless assignment to variable "tooltipList".(¤ğ¸ùÿÿÿÿ
+Fjavascript:S3504¥")Unexpected var, use let or const instead.(¤”š«
+Fjavascript:S3504¦")Unexpected var, use let or const instead.(åÑ±
+Zjavascript:S1481¦"=Remove the declaration of the unused 'tooltipWhite' variable.(åÑ±
+Wjavascript:S1854¦":Remove this useless assignment to variable "tooltipWhite".(åÑ±
+Fjavascript:S3504´")Unexpected var, use let or const instead.(ğ‰’Ä
+Fjavascript:S3504µ")Unexpected var, use let or const instead.(Ş­Ğ¼
+Yjavascript:S1481µ"<Remove the declaration of the unused 'popoverList' variable.(Ş­Ğ¼
+Vjavascript:S1854µ"9Remove this useless assignment to variable "popoverList".(Ş­Ğ¼
+Kjavascript:S3504¿")Unexpected var, use let or const instead.(ÃÏ¿ìşÿÿÿÿ
+Kjavascript:S3504Å")Unexpected var, use let or const instead.(ß¢—Ïøÿÿÿÿ
+Fjavascript:S3504Æ")Unexpected var, use let or const instead.(˜ºŞñ
+Fjavascript:S3504Ç")Unexpected var, use let or const instead.(„Ú‚›
+Ejavascript:S3504È")Unexpected var, use let or const instead.(„Ìã_
+Kjavascript:S3504É")Unexpected var, use let or const instead.(¿Èµçüÿÿÿÿ
+Fjavascript:S3504Ê")Unexpected var, use let or const instead.(¶±û
+Ujavascript:S1117Û"3'myModalEl' is already declared in the upper scope.(š•ç¿şÿÿÿÿ
+{javascript:S1172Ü"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(æÀ½äşÿÿÿÿ
+{javascript:S1172ß"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(«…¼ıúÿÿÿÿ
+Kjavascript:S3504ê")Unexpected var, use let or const instead.(ÕŒ ™ùÿÿÿÿ
+qjavascript:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ˆè²Ô
+Fjavascript:S3504û")Unexpected var, use let or const instead.(ÒÀí®
+Kjavascript:S3504ü")Unexpected var, use let or const instead.(˜ä¬‚ûÿÿÿÿ
+Kjavascript:S3504‚")Unexpected var, use let or const instead.(˜ä¬‚ûÿÿÿÿ
+Zjavascript:S1117‚"8'inputRecaptcha' is already declared in the upper scope.(˜ä¬‚ûÿÿÿÿ
+Kjavascript:S3504†")Unexpected var, use let or const instead.(ş¹©şÿÿÿÿ
+]javascript:S1481†";Remove the declaration of the unused 'validation' variable.(ş¹©şÿÿÿÿ
+Zjavascript:S1854†"8Remove this useless assignment to variable "validation".(ş¹©şÿÿÿÿ
+Ejavascript:S3504‘")Unexpected var, use let or const instead.(“öšv
+Kjavascript:S3504“")Unexpected var, use let or const instead.(ŒÏ‹Ãşÿÿÿÿ
+Kjavascript:S3504”")Unexpected var, use let or const instead.(šŞØœıÿÿÿÿ
+Kjavascript:S1117˜".'data' is already declared in the upper scope.(Ç¯ù·
+Ejavascript:S3504")Unexpected var, use let or const instead.(…æ×
+
+ijavascript:S4138´"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¨µ•Ï
+vjavascript:S1172·"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(ÒÁüÁ
+vjavascript:S1172Ï"YRemove the unused function parameter "e" or rename it to "_e" to make intention explicit.(ó¼Ö·
+Kjavascript:S3504ã")Unexpected var, use let or const instead.(°Ÿ§ãûÿÿÿÿ
+javascript:S2392ã"]Consider moving declaration of 'replace' as it is referenced outside current binding context.(°Ÿ§ãûÿÿÿÿ
+Zjavascript:S1481ã"8Remove the declaration of the unused 'replace' variable.(°Ÿ§ãûÿÿÿÿ
+Wjavascript:S1854ã"5Remove this useless assignment to variable "replace".(°Ÿ§ãûÿÿÿÿ
+Kjavascript:S3504ì")Unexpected var, use let or const instead.(ï·ğøÿÿÿÿ
+?javascript:S2814ì"'replace' is already defined.(ï·ğøÿÿÿÿ
+Zjavascript:S1481ì"8Remove the declaration of the unused 'replace' variable.(ï·ğøÿÿÿÿ
+Wjavascript:S1854ì"5Remove this useless assignment to variable "replace".(ï·ğøÿÿÿÿ
+Fjavascript:S3504û")Unexpected var, use let or const instead.(î²˜‚
+Fjavascript:S3504ÿ")Unexpected var, use let or const instead.(Ú©Ï²
+Kjavascript:S3504‹")Unexpected var, use let or const instead.(«Ÿã£ûÿÿÿÿ
