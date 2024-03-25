@@ -1,6 +1,4 @@
 
->
-src/index.html,5/c/5c975582791da6f060261188096d6aad85db6e09
 B
 src/blog-post.html,4/8/48d9fba3384112fc427b444b4bdfdf305e1d6f24
 ;
